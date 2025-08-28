@@ -1,0 +1,17 @@
+;:root{
+--cor-fundo: #d4daee;
+--cor-principal: #13498f;
+--cor-secundaria: hsl(236, 24%, 77%);
+--cor-texto: #ffffff;
+--cor-destaque: #374375;
+}
+
+<body{
+
+    background-color: var(--cor-fundo);
+    color:var(--cor-texto);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
